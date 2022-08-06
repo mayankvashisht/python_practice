@@ -1,0 +1,27 @@
+tom is travellin in aeroplane. he has given list of movies so write a program to help him choose two movies the sum of duration of both of them will be equal to the duration of chef's journey.
+
+you have to write a program where you are given list of movie durations. and flight duration k. you have check if sum of any two movies in the list is equal to the duration of the flight.
+
+
+input:
+
+n -> size of list
+L -> list of movie durations of size n
+K -> flight duration
+
+example:
+n = 5
+L = [10, 40, 5, 80, 60 ]
+k = 100
+
+output will be:
+True
+
+as 60 + 40 = 100 which is flight duration.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Write a program to calculate the nth power of k. take input k and n.
+2. write a program to calculate the nth factorial using for loop.+

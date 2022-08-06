@@ -1,0 +1,9 @@
+
+# classes and time complexities
+# print patterns
+# implement data structures in python (stack, queue, tree)
+# use built in data structures (stack , queue, tree, heap, priority_queue)
+# Sorting algorithms (insertion sort, bubble sort, counting sort)
+# binary search
+# heap
+# recurssion (binary search using recursion, merge sort, quick sort)

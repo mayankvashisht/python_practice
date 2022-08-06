@@ -1,0 +1,7 @@
+oops concept
+
+object and classe
+encapsulation
+abstraction
+inheritance
+polymorphism
